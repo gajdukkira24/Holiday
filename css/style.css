@@ -1,0 +1,148 @@
+h1,
+h2,
+h3,
+p {
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+address {
+    font-style: normal;
+}
+
+.link {
+    color: inherit;
+    text-decoration: none;
+}
+
+.img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.container{
+    margin: 0 auto;
+    padding: 0 16px;
+    
+    width: 306px;
+    @media screen and (min-width: 768px) {
+        width:670px;
+    }
+    @media screen and (min-width: 1200px) {
+        width: 940px;
+    }
+    }
+    .hero{
+        background-image: url("../img/desk-header\ 1.jpg");
+        height: 642px;
+    
+        background-position: center;
+        background-repeat: no-repeat;
+        margin-bottom: 5%;
+    }
+
+    .button1{
+        font-family: 'Montserrat';
+font-size: 14.01px;
+font-weight: 700;
+line-height: 17.08px;
+text-align: center;
+background: #FF4E50;
+width: 228px;
+height: 40px;
+border-radius: 30px;
+color: white;
+border: #FF4E50;
+line-height: 30px;
+letter-spacing: 0.03em;
+margin-left: 400px;
+    }
+
+
+.h11{
+    font-size: 52.05px;
+    font-weight: 700;
+    line-height: 63.44px;
+    text-align: center;
+    color: white;
+    
+    
+    
+    
+}
+.pp{
+    color: white;
+font-size: 24px;
+font-weight: 300;
+line-height: 28.13px;
+text-align: center;
+margin-bottom: 230px;
+
+
+}
+
+.button2{
+   
+font-size: 14px;
+font-weight: 700;
+line-height: 17.07px;
+text-align: center;
+background: #ffffff;
+width: 228px;
+height: 40px;
+border-radius: 30px;
+color: #FF4E50;
+
+line-height: 30px;
+letter-spacing: 0.03em;
+margin-left: 400px;
+
+border: 2px solid #FF4E50;
+
+
+
+
+
+
+}
+
+.text-team {
+font-size: 40px;
+font-size: 22px;
+font-weight: 700;
+line-height: 26.82px;
+text-align: center;
+
+}
+
+.button5{
+    
+font-size: 14px;
+font-weight: 700;
+line-height: 17.07px;
+text-align: center;
+border-radius: 30px;
+height: 30px;
+color: white;
+border: 2px solid #ffffff;
+
+
+
+
+}
+
+.hero{
+    
+    text-align:center ;
+    
+
+}
+
+
+
